@@ -105,7 +105,3 @@ class DoublyLinkedList:
                 return node
 
         return None
-
-
-
-
